@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1262708500 source:c:\r231trjkiller\regproc.cpp
+	"Define.h"
+	"RegProc.h"
+
+1262699852 c:\r231trjkiller\define.h
+
+1245323764 c:\r231trjkiller\regproc.h
+	<windows.h>
+
+1262708206 source:c:\r231trjkiller\main.cpp
+	<string.h>
+	<iostream>
+	"Define.h"
+	"FileProc.h"
+	"RegProc.h"
+	"ProcProc.h"
+	<windows.h>
+
+1245323400 c:\r231trjkiller\fileproc.h
+
+1262705154 source:c:\r231trjkiller\fileproc.cpp
+	<windows.h>
+	"Define.h"
+	"FileProc.h"
+
+1262706651 source:c:\r231trjkiller\procproc.cpp
+	"Define.h"
+	"ProcProc.h"
+
+1262706635 c:\r231trjkiller\procproc.h
+	<windows.h>
+	<tlhelp32.h>
+
+1262703482 source:c:\r231trjkiller\urc.rc
+
